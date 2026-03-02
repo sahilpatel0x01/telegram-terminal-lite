@@ -1,0 +1,4 @@
+telethon
+questionary
+rich
+python-dotenv
