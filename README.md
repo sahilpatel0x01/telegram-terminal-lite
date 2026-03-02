@@ -19,8 +19,8 @@ This project allows you to navigate through your Telegram chats (Users, Groups, 
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/telegram-cli.git
-cd telegram-cli
+git clone https://github.com/sahilpatel0x01/telegram-terminal-lite.git
+cd telegram-terminal-lite
 ```
 
 ### 2. Set up virtually environment (Recommended)
